@@ -1,4 +1,4 @@
-//Stockmarket POrtfolio app by Shubhankar Tiwari
+//Stockmarket Portfolio app by Shubhankar Tiwari
 const express = require('express');
 const  exphbs = require('express-handlebars');
 const app = express();
